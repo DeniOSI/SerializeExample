@@ -6,3 +6,4 @@ c:\users\администратор\documents\visual studio 2010\Projects\Serial
 c:\users\администратор\documents\visual studio 2010\Projects\SerializableExample\SerializableExample\obj\x86\Debug\SerializableExample.pdb
 c:\users\администратор\documents\visual studio 2010\Projects\SerializableExample\SerializableExample\bin\Debug\SerializableExample.exe
 c:\users\администратор\documents\visual studio 2010\Projects\SerializableExample\SerializableExample\bin\Debug\SerializableExample.pdb
+C:\Users\Администратор\documents\visual studio 2010\Projects\SerializableExample\SerializableExample\obj\x86\Debug\SerializableExample.csprojResolveAssemblyReference.cache

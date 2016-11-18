@@ -5,10 +5,7 @@ using System.Text;
 
 namespace SerializableExample
 {
-    [Serializable]
-   public class Car
+    class SOAPSerilize
     {
-       public Radio theRadio = new Radio();
-        public bool isHatchback;
     }
 }

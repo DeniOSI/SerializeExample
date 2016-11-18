@@ -6,12 +6,12 @@ using System.Text;
 namespace SerializableExample
 {
     [Serializable]
-    class Radio
+   public class Radio
     {
         public bool hasTwerts;
         public bool hasBuffers;
         public double[] stationPresets;
-        [NonSerialized]
+        [NonSerialized] //не будет серилизоваться
         public string radioID = "XF-552RF6";
     }
 }

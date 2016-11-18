@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<JamesBondCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <theRadio>
+    <hasTwerts>false</hasTwerts>
+    <hasBuffers>false</hasBuffers>
+    <stationPresets>
+      <double>5</double>
+      <double>4</double>
+      <double>3</double>
+      <double>2</double>
+    </stationPresets>
+    <radioID>XF-552RF6</radioID>
+  </theRadio>
+  <isHatchback>false</isHatchback>
+  <canFly>true</canFly>
+  <canSubmerge>true</canSubmerge>
+</JamesBondCar>
